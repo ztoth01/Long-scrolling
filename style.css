@@ -1,0 +1,19 @@
+.sec{
+  height:600px;
+  background: grey;
+  margin:10px;
+}
+.box{
+  background:yellow;
+  height: 100px;
+  width: 100px;
+}
+#nav{
+  text-align: center;
+  position: fixed;
+}
+
+#nav .a{
+  padding:5px;
+  color:grey;
+}
